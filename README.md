@@ -25,5 +25,4 @@ Here are some ideas to get you started:
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api?username=SirRiuz&theme=moltack&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-⠀⠀
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirRiuz&theme=moltack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
